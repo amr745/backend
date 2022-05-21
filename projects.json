@@ -3,12 +3,12 @@
       "name": "Buscar Books",
       "live": "https://amr745.github.io/buscar-books/",
       "git": "https://github.com/amr745/buscar-books",
-      "image": "/images/BuscarBooks.png"
+      "image": "https://imgur.com/m4gdV9Q"
     },
     {
       "name": "Fido Fame",
       "live": "https://fidofame.herokuapp.com/",
       "git": "https://github.com/amr745/FidoFame",
-      "image": "/images/FidoFame.png"
+      "image": "https://imgur.com/9GdscEX"
     }
   ]
